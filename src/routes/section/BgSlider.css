@@ -1,0 +1,24 @@
+.banner {
+    height:calc(100vh - 80px);
+}
+
+.banner h2 {
+    color:#fff;
+}
+
+.banImg1 {
+    background:url('https://www.10wallpaper.com/wallpaper/1366x768/1603/Me_before_you_2016-Movie_High_Quality_Wallpaper_1366x768.jpg') center center no-repeat;
+    background-size: cover;
+}
+.banImg2 {
+    background:url('https://www.10wallpaper.com/wallpaper/1366x768/1603/Captain_America_vs_Iron_Man-Movie_High_Quality_Wallpaper_1366x768.jpg') center center no-repeat;
+    background-size: cover;
+}
+.banImg3 {
+    background:url('https://www.10wallpaper.com/wallpaper/1366x768/1112/legend_of_the_guardians_the_owls_-Cartoon_animation_film_Selected_Wallpaper_1366x768.jpg') center center no-repeat;
+    background-size: cover;
+}
+.banImg4 {
+    background:url('https://www.10wallpaper.com/wallpaper/1366x768/1107/America_Science_Fiction_Classic_Movie_-_Avatar_HD_Wallpaper_19_1366x768.jpg') center center no-repeat;
+    background-size: cover;
+}
